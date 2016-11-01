@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RxPractice</string>
+    <string name="url_bg_img">https://s-media-cache-ak0.pinimg.com/originals/e7/c6/df/e7c6df386e4d410169d5f47c19a1bdc6.jpg</string>
+    <string name="time_taken">Time taken: 00ms</string>
+</resources>
